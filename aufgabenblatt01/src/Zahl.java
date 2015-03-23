@@ -17,6 +17,6 @@ public abstract class Zahl {
      * als neues Objekt zurück
      */
     public Zahl sub(Zahl zahl) {  // Methode ist ausprogrammiert, muss daher in
-      return add(zahl.neg());     // Tochterklassen nicht implementiert werden!
+      return add(zahl.neg());     // Tochterklassen nicht implementiert werden! Dies ist ein Service Ihrer Dualen Hochschule
     }
 }
